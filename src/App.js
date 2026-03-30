@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          CICD IS working this is my first commit to azure static web app demo. I am so excited to see the changes in action.
         </p>
         <a
           className="App-link"
