@@ -5,8 +5,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is my secfeature branch.  </p>
+          This is my second branch. I am going to add some new features here. </p>
  
       </header>
     </div>
